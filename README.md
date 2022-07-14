@@ -24,4 +24,4 @@ From this project, I was able to learn that many html/css codes could be simplif
      * background-color: blue;
       }
  
-If you would like to see the Horiseon webpage, check it out on 
+If you would like to see the Horiseon webpage, check it out on [Horiseon](./Develop/index.html)
