@@ -5,7 +5,7 @@
 This repository ("Horiseon-Challenge-Refactored-1") is a refactored version of the Horiseon website utilizing [Visual Studio Code](https://code.visualstudio.com). A common tasks of a front-end and junior developer is to utilize existing codes and refactor it. When you refactor a code, you improve the overall code and simplify it without changing the actions or properties. Doing so, it allows for the existing site to become more accessible, which is an important consideration for businesses. This creates a a cleaner and easier to read/understand. Being able to solve this problem, software developers are able to find and fix bugs or vulnerabilities within the code much easier. 
 
 A photo of the Horiseon webpage is shown below. 
-![Horiseon Webpage]([images/01-html-css-git-homework-demo.png](https://github.com/bennyle890/Horiseon-Challenge-Refactored-1/blob/main/UNCC%20Bootcamp/Projects/Horiseon-Challenge-Refactored-1/Develop/assets/images/01-html-css-git-homework-demo.png)
+![Horiseon Webpage](/assets/images/01-html-css-git-homework-demo.png)
 
 Refactoring this project allows me to enhance my skills in becoming a possible full-stack web developer. Working in the field of coding, you usually will have someone to check over your work and refactor it to create a more accessible website. 
 
