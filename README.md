@@ -9,18 +9,18 @@ Refactoring this project allows me to enhance my skills in becoming a possible f
 From this project, I was able to learn that many html/css codes could be simplified by placing them into a single group instead of individual groups when they code for the same thing. For example, three classes that code for the same thing can be simplified into one class.
 
   i.e.
-  *.back-star {
+  * .back-star {
       background-color: blue;
       }
-  *.back-moon {
+  * .back-moon {
       background-color: blue;
       }
-  *.back-sun {
+  * .back-sun {
       background-color: blue;
       }
       
   Can be simplified into one class (for example, .back-galaxy) and changed in the html as well,
-  *.back-galaxy {
+  * .back-galaxy {
       background-color: blue;
       }
  
