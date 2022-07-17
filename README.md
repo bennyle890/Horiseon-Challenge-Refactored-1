@@ -27,4 +27,4 @@ From this project, I was able to learn that many html/css codes could be simplif
      * background-color: blue;
       }
  
-If you would like to see the Horiseon webpage, check it out on [Horiseon](https://github.com/bennyle890/Horiseon-Challenge-Refactored-1/blob/main/UNCC%20Bootcamp/Projects/Horiseon-Challenge-Refactored-1/Develop/index.html)
+If you would like to see the Horiseon webpage, check it out on [Horiseon](https://bennyle890.github.io/horiseon-webpage/)
