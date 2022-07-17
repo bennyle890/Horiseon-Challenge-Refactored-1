@@ -27,4 +27,6 @@ From this project, I was able to learn that many html/css codes could be simplif
      * background-color: blue;
       }
  
+ Comments were included in both html and css files to show what changes were made in each file. 
+ 
 If you would like to see the Horiseon webpage, check it out on [Horiseon](https://bennyle890.github.io/horiseon-webpage/)
