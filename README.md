@@ -11,7 +11,7 @@ Refactoring this project allows me to enhance my skills in becoming a possible f
 
 From this project, I was able to learn that many html/css codes could be simplified by placing them into a single group instead of individual groups when they code for the same thing. For example, three classes that code for the same thing can be simplified into one class.
 
-  i.e.
+  i.e. (Not used in this project)
   * .back-star {
      * background-color: blue;
       }
